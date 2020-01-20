@@ -12,7 +12,15 @@ export class ProfileComponent implements OnInit {
   repos:any;
   username:string
   constructor(private profileService: ProfileService) { 
-  
+    this.profileService.getProfileInfo().subscribe(profile => {
+      profile;
+      console.log(profile);
+      this.profile = profile;
+    });
+    this.profileService.getProfileRepos().subscribe(repos =>{
+      console.log(repos);
+      this.repos = repos;
+    });
   }
 
   findProfile(){
