@@ -24,7 +24,7 @@ getProfileRepos(){
 }
 
 updateProfile(username:string){
-
+this.username = username;
 }
 
 }
