@@ -22,6 +22,10 @@ export class ProfileComponent implements OnInit {
     })
   }
 
+  findProfile(){
+    
+  }
+
   ngOnInit() {
   }
 
