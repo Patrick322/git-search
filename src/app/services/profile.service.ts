@@ -23,5 +23,8 @@ getProfileRepos(){
     .map(res => res); 
 }
 
+updateProfile(username:string){
+
+}
 
 }
