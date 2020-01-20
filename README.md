@@ -1,4 +1,4 @@
-## Quote application
+## Git search application
 
 ## Author
 
@@ -11,7 +11,7 @@ This application allows individual to add new quote and the author
 
 Open Terminal {Ctrl+Alt+T}
 
-git clone https://github.com/Patrick322/quote.git
+git clone https://github.com/Patrick322/git-search.git
 
 cd quote
 code . or atom . depending on the text editor of your choice.
@@ -29,12 +29,11 @@ Email:patrickbuong@gmail.com
 
 ## codebeat
 
-[![codebeat badge](https://codebeat.co/badges/aacf6719-7bc7-484d-903a-db3f60e8b758)](https://codebeat.co/projects/github-com-patrick322-quotes-master)
-
+[![codebeat badge](https://codebeat.co/badges/310145c1-f965-4db4-8ff7-0743d679a870)](https://codebeat.co/projects/github-com-patrick322-git-search-master)
 
 ## Livelink
 
-  https://patrick322.github.io/Quotes/
+  https://patrick322.github.io/git-search/
 
 
 ## Licence
