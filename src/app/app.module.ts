@@ -4,13 +4,13 @@ import { ProfileService } from './services/profile.service';
 
 import { AppComponent } from './app.component';
 import { ProfileComponent } from './components/profile/profile.component';
-import { HttpClientModule } from '@angular/common/http';
+import { HttpModule } from '@angular/http';
 
 @NgModule({
   declarations: [
     AppComponent,
     ProfileComponent,
-    HttpClientModule,
+    HttpModule,
   ],
   imports: [
     BrowserModule
