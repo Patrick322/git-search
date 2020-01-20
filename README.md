@@ -1,27 +1,42 @@
-# GitSearch
+## Quote application
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21.
+## Author
 
-## Development server
+Buong Patrick
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+# Description
+This application allows individual to add new quote and the author
 
-## Code scaffolding
+## setup/installtion Requirement
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Open Terminal {Ctrl+Alt+T}
 
-## Build
+git clone https://github.com/Patrick322/quote.git
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+cd quote
+code . or atom . depending on the text editor of your choice.
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Known Bugs
 
-## Running end-to-end tests
+The website is working okay but we are looking forward to expand it  globally
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## Further help
+## Support and contacts details
+If there is any addition or further clarrification please contact me:
+tel:+254797239875
+Email:patrickbuong@gmail.com
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## codebeat
+
+[![codebeat badge](https://codebeat.co/badges/aacf6719-7bc7-484d-903a-db3f60e8b758)](https://codebeat.co/projects/github-com-patrick322-quotes-master)
+
+
+## Livelink
+
+  https://patrick322.github.io/Quotes/
+
+
+## Licence
+
+licenced under the[MIT licence](LICENCED)
